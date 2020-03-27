@@ -7,5 +7,4 @@
     - Add A New Contact
     - Edit Contact
     - Delete Contact
-    - Get Selected Contact From JTable To TextFields And The Image Into JLabel
-    - Navigate From Contact To Another Using Navigation Buttons
+    - Get Selected Contact From JTable To TextFields
